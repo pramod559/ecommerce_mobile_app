@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".gitignore": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "android": true,
+    "ecommerce_mobile_app.iml": true,
+    "ios": true,
+    "linux": true,
+    "macos": true,
+    "README.md": true,
+    "test": true,
+    "web": true,
+    "windows": true
+  }
+}
